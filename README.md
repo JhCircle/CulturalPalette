@@ -1,4 +1,4 @@
-<div align="center" style="font-size:25px;text-align:center"><img src="./asset/logo.png" width="30" style="margin-bottom: 0.2;"/>
+<div align="center" style="font-size:30px;text-align:center"><img src="./asset/logo.png" width="30" style="margin-bottom: 0.2;"/>
  <strong>Cultural Palette: Pluralising Culture Alignment via Multi-Agent Palette</strong></div>
 <div align="center">
 
