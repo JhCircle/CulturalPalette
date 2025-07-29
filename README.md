@@ -1,7 +1,7 @@
-<div align="center" style="font-size:30px;text-align:center"><img src="./asset/logo.png" width="30" style="margin-bottom: 0.2;"/>
- <strong>Cultural Palette: Pluralising Culture Alignment via Multi-Agent Palette</strong></div>
-<h3 align="center">✨ We introduce <strong>Cultural Palette</strong>: blending cultural colors to create globally aligned AI 🌏</h3>
 <div align="center">
+<h1><img src="./asset/logo.png" width="30" style="margin-bottom: 0.2;"/>
+ <strong>Cultural Palette: Pluralising Culture Alignment via Multi-Agent Palette</strong></h1>
+<h4 align="center">✨ We introduce <strong>Cultural Palette</strong>: blending cultural colors to create globally aligned AI 🌏</h4>
 
 [![Paper](https://img.shields.io/badge/arXiv-2412.11167-b31b1b.svg)](https://arxiv.org/abs/2412.11167)
 ![GitHub Repo stars](https://img.shields.io/github/stars/JhCircle/CulturalPalette?style=social)
