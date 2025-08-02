@@ -37,6 +37,5 @@ If you find our work useful for your research, please kindly cite our paper as f
       url={https://arxiv.org/abs/2412.11167}, 
 }
 ```
-## Acknowledge
+## 🙇‍ Acknowledge
 We gratefully acknowledge [PRISM](https://github.com/HannahKirk/prism-alignment) for invaluable contribution to our dataset.
-
