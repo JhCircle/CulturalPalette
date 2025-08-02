@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<img src="./asset/model.png" align="center" width="80%">
+<img src="./asset/CulturalPalette.png" align="center" width="80%">
 </p>
 
 ## 🔥 News
@@ -21,7 +21,7 @@
 
 > 📈 Our Pentachromatic Cultural Palette Dataset achieves _clear clustering_ of cultural semantics across five continents **(Africa, America, Asia, Europe, Oceania)**.
 <p align="center">
-<img src="./asset/dataset.png" align="center" width="50%">
+<img src="./asset/CulturalPalette_dataset.png" align="center" width="50%">
 </p>
 
 ## 📖 Citation
